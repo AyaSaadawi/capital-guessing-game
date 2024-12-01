@@ -1,4 +1,6 @@
 Guess the Capital Game
+
+
 Overview
 This is a web-based Guess the Capital game application that challenges users to guess the capital cities of different countries. It was developed as part of a cloud computing course to explore containerization, deployment, and cloud-based application management. The project uses HTML, CSS, and JavaScript for the front-end, with Docker for containerization and IBM Cloud Code Engine for cloud deployment.
 
